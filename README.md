@@ -1,5 +1,5 @@
 <img src="Banner.gif" alt="I'm Mohsin Sayyad" width="100%"/>
-<h3 align="center">A passionate web developer and problem solver.</h3>
+<h2 align="center">A Passionate Web Developer and Problem Solver.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin2012&label=Profile%20views&color=0e75b6&style=flat" alt="mohsin2012" /> </p>
 
